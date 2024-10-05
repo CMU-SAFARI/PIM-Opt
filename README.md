@@ -101,12 +101,7 @@ Running the experiments described in `Experiment workflow` is sufficient to repr
 
 
 ## Disclaimer
-This repository contains reused and repurposed code from:
-- PrIM (Processing-In-Memory Benchmarks), SAFARI Research Group GitHub, [https://github.com/CMU-SAFARI/prim-benchmarks](https://github.com/CMU-SAFARI/prim-benchmarks), accessed 16 July 2024,
-- PIM-ML, SAFARI Research Group GitHub, [https://github.com/CMU-SAFARI/pim-ml](https://github.com/CMU-SAFARI/pim-ml),accessed 16 July 2024,
-- TransPimLib: A Library for Efficient Transcendental Functions on Processing-in-Memory Systems, SAFARI Research Group GitHub, [https://github.com/CMU-SAFARI/transpimlib](https://github.com/CMU-SAFARI/transpimlib), accessed 16 July 2024,
-- RowPress, SAFARI Research Group GitHub, [https://github.com/CMU-SAFARI/RowPress](https://github.com/CMU-SAFARI/RowPress), accessed 16 July 2024, and 
-- LambdaML, DS3Lab GitHub, [https://github.com/DS3Lab/LambdaML](https://github.com/DS3Lab/LambdaML), accessed 16 July 2024.
+This repository contains reused and repurposed code from [PrIM](https://github.com/CMU-SAFARI/prim-benchmarks), [PIM-ML](https://github.com/CMU-SAFARI/pim-ml), [LambdaML](https://github.com/DS3Lab/LambdaML), [TransPimLib](https://github.com/CMU-SAFARI/transpimlib), and [RowPress](https://github.com/CMU-SAFARI/RowPress).
 
 
 ## Getting Help
